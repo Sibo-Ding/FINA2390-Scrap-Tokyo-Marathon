@@ -22,6 +22,6 @@ o.	Time(gross)\
 p.	Time lapsed at 5km\
 q.	Time lapsed at 10km\
 r.	…… (so on and so forth)\
-s.	Time lapsed at Finish point\
+s.	Time lapsed at Finish point
 
 Input the search criteria (Race Category, Bib, Name, Age Group, Sex, Nationality) and return a csv file with the above information of the players satisfying the search criteria.
